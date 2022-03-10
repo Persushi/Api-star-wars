@@ -24,7 +24,8 @@
 
 ## Description
 
-Aplicacion inicializada con NestJs, se puede clonar el repositorio y seguir los siguientes pasos
+Aplicacion inicializada con NestJs, se puede clonar el repositorio y seguir los siguientes pasos o entrar directamente al swagger deployado
+https://challengesw.herokuapp.com/api/
 
 ## Installation
 
